@@ -1,0 +1,73 @@
+/* Global styles */
+.active {
+	color: #4AC20E;
+}
+
+.container {
+	padding: 30px;
+}
+
+* {
+	color: #3D58A6;
+}
+
+/* Navigation styles*/
+nav li>a {
+    font-size: 22px;
+    line-height: 25px;
+}
+
+/* Main area styles */
+h1 {
+	border: 5px solid #4AC20E;
+	border-radius: 10px;
+	margin: 20px 0 10px 0;
+	padding: 5px 30px;
+	font-size: 30px;
+}
+
+.image-div {
+	margin-bottom: 70px;
+}
+
+.first-image {
+	margin-right: 70px;
+}
+
+.text-div p {
+	font-size: 22px;
+	margin-bottom: 35px;
+}
+
+.text-div a {
+	font-size: 22px;
+	margin-bottom: 30px;
+}
+
+.text-div a span {
+	padding-bottom: 3px;
+	border-bottom: 5px solid #3D58A6;
+}
+
+/* footer area styles */
+footer {
+	border-top: 2px solid #707070;
+    padding-top: 5px;
+	text-align: center;
+	font-size: 25px;
+	width: 100%;
+}
+
+footer p {
+	display: inline-block;
+	font-weight: bold;
+}
+
+.footer-phone-p {
+	margin-right: 30px;
+}
+
+.position-absolute {
+    position: absolute;
+    bottom: 10px;
+}
